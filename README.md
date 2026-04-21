@@ -67,9 +67,3 @@ A deep learning system that infers human intent from body language and motion.
 - 📧 agrawalrhythm287@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rhythm-agrawal-2336952bb/)
 - 🐙 [GitHub](https://github.com/Rhythm2903)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhythm2903&show_icons=true&theme=default&hide_border=true" alt="Rhythm's GitHub Stats" />
-</p>
