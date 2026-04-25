@@ -11,6 +11,7 @@ Currently seeking **ML Intern**, **AI Intern**, and **Data Analyst Intern** oppo
 - 🔭 Currently working on real-time Computer Vision, deep learning projects, and AI agents
 - 🌱 Exploring NLP, RAG pipelines, model optimization, and end-to-end ML systems
 - 🎵 Club Head, Crescendo (Music Club) — led a team of 30+ members
+- 🎤 Stage Lead — Abhivyakti & TantraFiesta, IIIT Nagpur
 
 ---
 
@@ -43,10 +44,21 @@ Currently seeking **ML Intern**, **AI Intern**, and **Data Analyst Intern** oppo
 
 A real-time assistive vision system designed for visually impaired users.
 
-- Trained a YOLOv8 model on **40,500+ images across 83 classes**, achieving **89.2% mAP** and stable **28 FPS** real-time inference
-- Built distance estimation and spatial reasoning algorithms generating **context-aware audio feedback**, reducing navigation errors by ~40%
-- Integrated speech recognition and TTS pipelines for fully **hands-free, voice-driven interaction** with under 300ms response latency
-- Applied GPU (CUDA) acceleration, cutting per-frame latency by **60%** for consistent real-time performance
+- Trained a YOLOv8 model on **40,500+ images across 83 classes** for real-time object detection and tracking
+- Built distance estimation and spatial reasoning algorithms that generate **context-aware audio feedback**
+- Integrated speech recognition and TTS pipelines for fully **hands-free, voice-driven interaction**
+- Applied GPU acceleration to achieve stable low-latency real-time performance
+
+---
+
+### [Vision-Based Human Intent Interpreter](https://github.com/Rhythm2903/Vision-Based-Human-Intent-Interpreter)
+> Python · PyTorch · OpenCV · MediaPipe · NumPy
+
+A deep learning system that infers human intent from body language and motion.
+
+- Designed pipelines for pose estimation and gesture recognition using video stream data
+- Extracted temporal features for accurate intent classification from non-verbal cues
+- Built a low-latency inference workflow suitable for real-time human-computer interaction
 
 ---
 
@@ -58,7 +70,24 @@ An AI-powered career assistant for resume evaluation, job-fit analysis, skill-ga
 - Built a **multi-agent pipeline** (Parser, JD, Match, Gap, Market, Roadmap, Critic agents) orchestrated through shared `ReasoningContext` for structured, stage-by-stage analysis
 - Implemented **RAG** using OpenAI embeddings and FAISS vector search to ground all analysis in actual resume evidence — avoiding generic LLM responses
 - Delivered **India-focused salary guidance** (INR LPA) and a personalized **90-day skill-building roadmap** based on detected skill gaps
-- Architected a **FastAPI** backend with session lifecycle management and **Streamlit** frontend; containerized the full stack with **Docker** for portable deployment
+- Architected a **FastAPI** backend with session lifecycle management and **Streamlit** frontend; containerized the full stack with **Docker**
+
+---
+
+## 🏆 Positions of Responsibility
+
+### 🎵 Club Head — Crescendo Music Club, IIIT Nagpur
+*Aug 2024 – May 2025*
+
+- Led a team of **30+ members**, coordinating planning, budgeting, and promotions for multiple campus-wide events with **1,000+ combined attendees**
+- Demonstrated leadership, cross-functional coordination, and stakeholder communication across departments
+
+### 🎤 Stage Lead — Abhivyakti & TantraFiesta, IIIT Nagpur
+*2025 – 2026*
+
+- Served as Stage Lead for **2 major college fests** (2,000+ attendees), overseeing end-to-end stage setup, technical infrastructure, and on-ground execution
+- Conducted full vendor tender process — evaluated **10+ bids**, negotiated terms, achieving **15% cost savings** on stage equipment and logistics
+- Coordinated with logistics, performers, security, and AV teams to ensure seamless event flow across both fests
 
 ---
 
